@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\BlankSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305A0E-46A9-4563-94C6-FE32A7957C56}|src\\BlankSolution.API\\BlankSolution.API.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305A0E-46A9-4563-94C6-FE32A7957C56}|src\\BlankSolution.API\\BlankSolution.API.csproj|solutionrelative:src\\blanksolution.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.mvc\\viewmodels\\genrecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\viewmodels\\genrecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.business\\mappingprofiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\mappingprofiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.business\\dtos\\genredtos\\genregetlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\dtos\\genredtos\\genregetlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305A0E-46A9-4563-94C6-FE32A7957C56}|src\\BlankSolution.API\\BlankSolution.API.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305A0E-46A9-4563-94C6-FE32A7957C56}|src\\BlankSolution.API\\BlankSolution.API.csproj|solutionrelative:src\\blanksolution.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.business\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\asus\\desktop\\blanksolution\\src\\blanksolution.mvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:36:52.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:36:58.453Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:43:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\ViewModels\\GenreCreateViewModel.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\ViewModels\\GenreCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\ViewModels\\GenreCreateViewModel.cs",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\ViewModels\\GenreCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:43:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenreGetListDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.Business\\DTOs\\GenreDtos\\GenreGetListDto.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\DTOs\\GenreDtos\\GenreGetListDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.Business\\DTOs\\GenreDtos\\GenreGetListDto.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\DTOs\\GenreDtos\\GenreGetListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:52:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.Business\\MappingProfiles\\MapProfile.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\MappingProfiles\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.Business\\MappingProfiles\\MapProfile.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\MappingProfiles\\MapProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:52:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.Business\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.Business\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\Helpers\\FileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:51:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T11:22:11.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.MVC\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T11:18:37.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

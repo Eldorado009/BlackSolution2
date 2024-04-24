@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\eldarna\\Desktop\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlankSolution.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlankSolution.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\eldarna\\Desktop\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\wwwroot\\Areas\\vendor\\fontawesome-free\\package.json",
+      "PackagePath": "staticwebassets\\Areas\\vendor\\fontawesome-free\\package.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlankSolution.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlankSolution.MVC.props",
+      "PackagePath": "build\\BlankSolution.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlankSolution.MVC.props",
+      "PackagePath": "buildMultiTargeting\\BlankSolution.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlankSolution.MVC.props",
+      "PackagePath": "buildTransitive\\BlankSolution.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
